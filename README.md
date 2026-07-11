@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Akshita Kumawat
 
-<!--
-**Akshikmt/Akshikmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm currently pursuing **B.Tech in Information Technology** at Govt. Women Engineering College, Ajmer.
+- 💻 I'm passionate about **Full-Stack Web Development** and **Artificial Intelligence**.
+- 🌱 I'm currently learning **Generative AI, RAG, and System Design**.
+- 🚀 I enjoy building scalable web applications and AI-powered solutions.
+- 🤝 I'm looking to collaborate on **Open Source**, **MERN Stack**, and **AI Projects**.
+- 📫 Reach me at: **your-email@example.com**
+- ⚡ Fun fact: I love combining creativity with technology through design, hackathons, and software development.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, JavaScript, Python, C++
+- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **AI:** Google Gemini API, RAG, Vector Embeddings
+- **Tools:** Git, GitHub, VS Code, Postman
+
+## 🚀 Featured Projects
+
+- 🤖 AI-Powered Enterprise Knowledge Management System
+- 💬 Atlas AI Assistant
+- 👩‍💼 HRMS with AI Chatbot
+
+---
+⭐ Thanks for visiting my profile!
