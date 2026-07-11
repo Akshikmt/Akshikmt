@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning **Generative AI, RAG, and System Design**.
 - 🚀 I enjoy building scalable web applications and AI-powered solutions.
 - 🤝 I'm looking to collaborate on **Open Source**, **MERN Stack**, and **AI Projects**.
-- 📫 Reach me at: **akshitakumawat11@example.com**
+- 📫 Reach me at: **akshitakumawat11@gmail.com**
 - ⚡ Fun fact: I love combining creativity with technology through design, hackathons, and software development.
 
 ## 🛠️ Tech Stack
