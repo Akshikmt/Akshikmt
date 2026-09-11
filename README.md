@@ -27,11 +27,3 @@
 ⭐ Thanks for visiting my profile!
 
 
-
-
-
-
-
-
-
-![snake gif](https://github.com/Akshikmt/Akshikmt/blob/output/github-contribution-grid-snake.gif)
